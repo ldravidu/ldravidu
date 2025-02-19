@@ -46,9 +46,88 @@
 
 <h3 align="left">🤳 Connect with me:</h3>
 <p align="left">
-<a href="mailto:ldravidu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ldravidu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ldravidu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ldravidu" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/ldravidu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ldravidu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
+
+---
+
+## Certificates
+
+### Google IT Automation with Python Professional Certificate
+- **Issuer**: Google
+- **Issued**: Feb 2025
+- **Credential ID**: I9K4SQ7O38XG
+- **Courses**:
+  - Crash Course on Python [Show Credential](https://www.coursera.org/account/accomplishments/records/39BWCRHBQL6Q)
+  - Using Python to Interact with the Operating System [Show Credential](https://www.coursera.org/account/accomplishments/verify/IYQAONJ8DDAT)
+  - Troubleshooting and Debugging Techniques [Show Credential](https://www.coursera.org/account/accomplishments/verify/BZJMBV76ZO94)
+  - Introduction to Git and GitHub [Show Credential](https://www.coursera.org/account/accomplishments/verify/G3FXWTUIAQSQ)
+  - Configuration Management and the Cloud [Show Credential](https://www.coursera.org/account/accomplishments/verify/MTE6K1054838)
+  - Automating Real-World Tasks with Python [Show Credential](https://www.coursera.org/account/accomplishments/records/LE6PWFUM22U7)
+- **Skills**: Programming, Python, Object-Oriented Programming (OOP), Continuous Integration (CI), Continuous Delivery (CD), Cloud Computing
+- [Show Credential](https://www.coursera.org/account/accomplishments/specialization/I9K4SQ7O38XG) | [Show Badge](https://www.credly.com/badges/242e7a75-9b36-47d4-bd51-8ab572ee90f9/linked_in_profile)
+
+### DevOps on AWS Specialization
+- **Issuer**: Amazon Web Services (AWS)
+- **Issued**: Jan 2025
+- **Credential ID**: LOHMYWZE33CW
+- **Courses**:
+  - AWS Cloud Technical Essentials [Show Credential](https://www.coursera.org/account/accomplishments/verify/YD2ZNBUQ95S2)
+  - DevOps on AWS: Code, Build, and Test [Show Credential](https://www.coursera.org/account/accomplishments/verify/186JCWYGUXJU)
+  - DevOps on AWS: Operate and Monitor [Show Credential](https://www.coursera.org/account/accomplishments/records/QQ5IITR6QQVA)
+  - DevOps on AWS: Release and Deploy [Show Credential](https://www.coursera.org/account/accomplishments/verify/TT5IIJKDA46Z)
+- **Skills**: Continuous Delivery (CD), AWS Identity and Access Management (AWS IAM), AWS Security, AWS Management Console, DevOps, Continuous Integration and Continuous Delivery (CI/CD), Continuous Integration (CI), AWS CloudFormation, Networking on AWS
+- [Show Credential](https://www.coursera.org/account/accomplishments/specialization/LOHMYWZE33CW)
+
+### Accelerated Computer Science Fundamentals Specialization
+- **Issuer**: University of Illinois Urbana-Champaign
+- **Issued**: Jan 2025
+- **Credential ID**: Z46PPIDSJCXW
+- **Courses**:
+  - Object-Oriented Data Structures in C++ [Show Credential](https://www.coursera.org/account/accomplishments/records/VXFOVJBI6SH8)
+  - Unordered Data Structures [Show Credential](https://www.coursera.org/account/accomplishments/records/BA7ZX4OMY2KN)
+  - Ordered Data Structures [Show Credential](https://www.coursera.org/account/accomplishments/verify/QT9WQW486X5Y)
+- **Skills**: Run-time Analysis, C++, Hash Table, Programming, Trees, Algorithms, Object-Oriented Programming (OOP), Software Development
+- [Show Credential](https://www.coursera.org/account/accomplishments/specialization/Z46PPIDSJCXW)
+
+### Foundations of Cybersecurity
+- **Issuer**: Google
+- **Issued**: Jan 2025
+- **Credential ID**: WGFUIMC8Z9S1
+- **Skills**: Networking
+- [Show Credential](https://www.coursera.org/account/accomplishments/verify/WGFUIMC8Z9S1)
+
+### Introduction to DevOps
+- **Issuer**: IBM
+- **Issued**: Jan 2025
+- **Credential ID**: S1TYA5T56TJS
+- **Skills**: Continuous Delivery (CD), Behavior-Driven Development (BDD), DevOps, Agile & Waterfall Methodologies, Test-Driven Development, Continuous Integration and Continuous Delivery (CI/CD), Cloud-Native Architecture, Continuous Integration (CI), Agile Methodologies
+- [Show Credential](https://www.coursera.org/account/accomplishments/verify/S1TYA5T56TJS) | [Show Badge](https://www.credly.com/badges/f190703e-fc9a-434c-b2b4-d435a1902ded/linked_in_profile)
+
+### Object-Oriented Design
+- **Issuer**: University of Alberta
+- **Issued**: Nov 2024
+- **Credential ID**: 6YJMVJPQ23C7
+- **Skills**: Java, OOAD, Object Oriented Design, Programming, Software Development, Unified Modeling Language (UML)
+- [Show Credential](https://www.coursera.org/account/accomplishments/records/6YJMVJPQ23C7)
+
+### Machine Learning 5-day Workshop
+- **Issuer**: Global Eye International (Private) Limited
+- **Issued**: May 2021
+- **Skills**: Programming
+- [Show Credential](https://www.linkedin.com/in/ldravidu/details/certifications/1728285319399/single-media-viewer?type=DOCUMENT&profileId=ACoAAC0UxOwBOx-JJznRx20ElXZDYGPbw0IiS9A)
+
+### C Advanced
+- **Issuer**: HackerRank
+- **Issued**: Sep 2020
+- **Skills**: C (Programming Language), Programming
+- [Show Credential](https://www.hackerrank.com/certificates/7b3be68f07cb)
+
+### Siemens S7-300 PLC & STEP 7
+- **Issuer**: Nikini Group of Companies
+- **Issued**: Sep 2017
+- **Skills**: S7-300, PLC Siemens, SIMATIC STEP 7
+- [Show Credential](https://www.linkedin.com/in/ldravidu/details/certifications/1728285211102/single-media-viewer?type=DOCUMENT&profileId=ACoAAC0UxOwBOx-JJznRx20ElXZDYGPbw0IiS9A)
 
 ---
 
