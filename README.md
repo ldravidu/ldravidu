@@ -35,6 +35,7 @@
 - <b>Django</b>
   - [AI Blog App](https://github.com/ldravidu/ai-blog-app) <b><i>(A web app to convert a YouTube video link to a blog article using Artificial Intelligence)</b></i>
 - <b>Node.js (Express)</b>
+  - [Subscription Tracker](https://github.com/ldravidu/subscription-tracker) <b><i>(A subscription tracker, that keeps records of paid subscriptions, and send E-mail reminders when renewal date is close)</b></i>
   - [E-Commerce Backend](https://github.com/ldravidu/ecommerce-backend) <b><i>(A scalable E-Commerce backend API built with Node.js, Express, and PostgreSQL)</b></i>
 - <b>IoT Libraries</b>
   - [MEGA2560_HalfStepper](https://github.com/ldravidu/MEGA2560_HalfStepper) <b><i>(Library for driving a Half-stepper motor in Arduino Mega 2560)</b></i>
