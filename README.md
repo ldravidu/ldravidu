@@ -37,6 +37,8 @@
 - <b>Node.js (Express)</b>
   - [Subscription Tracker](https://github.com/ldravidu/subscription-tracker) <b><i>(A subscription tracker, that keeps records of paid subscriptions, and send E-mail reminders when renewal date is close)</b></i>
   - [E-Commerce Backend](https://github.com/ldravidu/ecommerce-backend) <b><i>(A scalable E-Commerce backend API built with Node.js, Express, and PostgreSQL)</b></i>
+- <b>React Native (Mobile App Development)</b>
+  - [Uber clone](https://github.com/ldravidu/uber-clone) <b><i>A fully functional ride-sharing app with real-time GPS tracking, in-app payments, and push notifications </b></i>
 - <b>IoT Libraries</b>
   - [MEGA2560_HalfStepper](https://github.com/ldravidu/MEGA2560_HalfStepper) <b><i>(Library for driving a Half-stepper motor in Arduino Mega 2560)</b></i>
   - [MEGA2560_GPIO](https://github.com/ldravidu/MEGA2560_GPIO) <b><i>(GPIO Library for Arduino Mega 2560)</b></i>
