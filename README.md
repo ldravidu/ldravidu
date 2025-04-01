@@ -22,7 +22,7 @@
 
 ### About Me
 
-- I am a Software Developer specializing in backend engineering
+- I am a Software Developer specializing in backend development
 
 - I also develop IoT and embedded systems
 
@@ -32,12 +32,14 @@
 
 ### 👨‍💻 Software Development Projects
 
+- <b>Spring Boot + React (Full-Stack)</b>
+  - [Course Content Manager](https://github.com/ldravidu/course-content-system) <b><i>(A containerized platform for managing educational content with role-based access, file uploads (PDF/Video/Images), and real-time updates. Built with Spring Boot, React, and PostgreSQL.)</b></i>
 - <b>Django</b>
   - [AI Blog App](https://github.com/ldravidu/ai-blog-app) <b><i>(A web app to convert a YouTube video link to a blog article using Artificial Intelligence)</b></i>
-- <b>Node.js (Express)</b>
+- <b>Node.js + Express (Backend)</b>
   - [Subscription Tracker](https://github.com/ldravidu/subscription-tracker) <b><i>(A subscription tracker, that keeps records of paid subscriptions, and send E-mail reminders when renewal date is close)</b></i>
   - [E-Commerce Backend](https://github.com/ldravidu/ecommerce-backend) <b><i>(A scalable E-Commerce backend API built with Node.js, Express, and PostgreSQL)</b></i>
-- <b>React Native (Mobile App Development)</b>
+- <b>React Native (Full Stack Mobile App)</b>
   - [Uber clone](https://github.com/ldravidu/uber-clone) <b><i>A fully functional ride-sharing app with real-time GPS tracking, in-app payments, and push notifications </b></i>
 - <b>IoT Libraries</b>
   - [MEGA2560_HalfStepper](https://github.com/ldravidu/MEGA2560_HalfStepper) <b><i>(Library for driving a Half-stepper motor in Arduino Mega 2560)</b></i>
