@@ -58,9 +58,9 @@
 
 ---
 
-<details>
-    
 ## Certificates
+    
+<details>
 
 <summary>View Ceritificates</summary>
 
