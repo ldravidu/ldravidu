@@ -58,7 +58,11 @@
 
 ---
 
+<details>
+    
 ## Certificates
+
+<summary>View Ceritificates</summary>
 
 ### Google IT Automation with Python Professional Certificate
 - **Issuer**: Google
@@ -135,6 +139,8 @@
 - **Issued**: Sep 2017
 - **Skills**: S7-300, PLC Siemens, SIMATIC STEP 7
 - [Show Credential](https://www.linkedin.com/in/ldravidu/details/certifications/1728285211102/single-media-viewer?type=DOCUMENT&profileId=ACoAAC0UxOwBOx-JJznRx20ElXZDYGPbw0IiS9A)
+
+</details>
 
 ---
 
